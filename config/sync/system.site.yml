@@ -1,0 +1,15 @@
+uuid: 3ccb5e89-46d6-4395-933b-32ab4ed8ec27
+name: 'User 4'
+mail: pierre.reitlinger@gmail.com
+slogan: Projet2
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
+mail_notification: ''
